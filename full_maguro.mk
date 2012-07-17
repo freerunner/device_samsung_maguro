@@ -35,5 +35,5 @@ $(call inherit-product, device/samsung/maguro/device.mk)
 PRODUCT_NAME := full_maguro
 PRODUCT_DEVICE := maguro
 PRODUCT_BRAND := Android
-PRODUCT_MODEL := Full AOSP on Maguro
+PRODUCT_MODEL := Primerunner on Maguro
 PRODUCT_RESTRICT_VENDOR_FILES := true
